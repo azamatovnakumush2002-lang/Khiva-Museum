@@ -1,0 +1,66 @@
+{
+    "header": {
+        "museumShop": "Khiva Museum Shop",
+        "home": "Home",
+        "about": "About Us",
+        "collection": "Museum Collection",
+        "gallery": "Gallery",
+        "news": "News",
+        "contact": "Contact Us",
+        "aboutMuseum": "About the museum",
+        "employees": " Employees",
+        "announcements": "Announcements"
+    },
+    "home": {
+        "hero": {
+            "title1": "Kalta Minor – The Unfinished Icon of Khiva",
+            "title2": "Ichan Qal'a",
+            "title3": "Arda Khiva – Modern Living in Historic Khiva",
+            "location": "Khiva city, Khorezm region"
+        },
+        "aboutMuseum": {
+            "title": "Khiva Museum – A Legacy of History Since 1970",
+            "text": "The Khiva Museum, established in 1970, is a prominent cultural and educational institution dedicated to preserving and showcasing the rich history and heritage of Khiva and the surrounding region. As a multidisciplinary center, the museum plays a vital role in research, conservation, and public education. It houses an extensive collection of artifacts that represent the artistic, architectural, and everyday life traditions of Khiva’s past. The museum serves not only as a guardian of the city’s cultural legacy but also as a hub for promoting historical awareness and appreciation among locals and visitors alike. Since its foundation, the Khiva Museum has been instrumental in supporting scholarly research and fostering cultural dialogue, solidifying its place as a key institution in Uzbekistan’s preservation of history."
+        },
+        "rate": [
+            {
+                "id": 1,
+                "title": "Monuments Over 1,000 Years Old",
+                "rate": "3200"
+            },
+            {
+                "id": 2,
+                "title": "Unique Monuments of Khiva",
+                "rate": "500"
+            },
+            {
+                "id": 3,
+                "title": "Silk Road Monuments",
+                "rate": "12000"
+            },
+            {
+                "id": 4,
+                "title": "Research Projects",
+                "rate": "85"
+            }
+        ]
+    },
+    "collection": {
+        "title": "Khorezm Cultural Heritage Collection",
+        "text": "The rich collection of the Khiva State Museum-Reserve displays unique artifacts preserved over centuries. Discover the history and culture of the Khorezm people through traditional ceramics, national attire, and ancient weaponry."
+    },
+    "gallery": {
+        "title": "Gallery"
+    },
+    "footer": {
+        "location": "Location",
+        "locationT": "41 Boltaeva Street, Khiva, Khorezm region",
+        "links": "Useful Links",
+        "media": "Our social media"
+    },
+    "buttons": {
+        "tickets": "Buy tickets",
+        "details": "More details",
+        "openMap": "Open on map"
+    }
+}

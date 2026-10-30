@@ -1,0 +1,67 @@
+{
+    "header": {
+        "museumShop": "Xiva muzeyi do‘koni",
+        "home": "Uy",
+        "about": "Biz haqimizda",
+        "collection": "Kolleksiya",
+        "gallery": "Galereya",
+        "news": "Yangiliklar",
+        "contact": "Biz bilan bog`lanish",
+        "aboutMuseum": "Muzey haqida",
+        "employees": "Xodimlar",
+        "announcements": "E'lonlar"
+    },
+    "home": {
+        "hero": {
+            "title1": "Kalta Minor – Xivaning tugallanmagan timsoli",
+            "title2": "Ichan qal’a",
+            "title3": "Arda Xiva – tarixiy Xivadagi zamonaviy hayot",
+            "location": "Xiva shahri, Xorazm viloyati"
+        },
+        "aboutMuseum": {
+            "title": "Xiva muzeyi – 1970-yildan buyon tarixiy meros",
+            "text": "1970-yilda tashkil etilgan Xiva muzeyi Xiva va uning atrofidagi hududlarning boy tarixi hamda madaniy merosini saqlash va namoyish etishga bag‘ishlangan muhim madaniy-ma’rifiy muassasadir. Ko‘p yo‘nalishli markaz sifatida muzey ilmiy tadqiqotlar, madaniy merosni asrash va jamoatchilikni ma’rifatli qilishda muhim rol o‘ynaydi. Unda Xivaning o‘tmishiga oid san’at, me’morchilik va kundalik turmush an’analarini aks ettiruvchi keng qamrovli eksponatlar to‘plami saqlanadi. Muzey nafaqat shaharning madaniy merosini asrovchi maskan, balki mahalliy aholi va tashrif buyuruvchilar orasida tarixiy bilim va qadriyatlarga hurmatni targ‘ib qiluvchi markaz hamdir. Tashkil etilganidan buyon Xiva muzeyi ilmiy tadqiqotlarni qo‘llab-quvvatlash va madaniy muloqotni rivojlantirishga katta hissa qo‘shib, O‘zbekistonda tarixiy merosni asrashga xizmat qiluvchi muhim muassasalardan biriga aylangan."
+        },
+        "rate": [
+            {
+                "id": 1,
+                "title": "1000+ yillik yodgorliklar",
+                "rate": "3200"
+            },
+            {
+                "id": 2,
+                "title": "Xiva eksklyuziv yodgorliklari",
+                "rate": "500"
+            },
+            {
+                "id": 3,
+                "title": "Ipak yo‘li yodgorliklari",
+                "rate": "12000"
+            },
+            {
+                "id": 4,
+                "title": "Tadqiqot loyihalari",
+                "rate": "85"
+            }
+        ]
+    },
+    "collection": {
+        "title": "Xorazm madaniy merosi kolleksiyasi",
+        "text": "Xiva davlat muzey qo'riqxonasining boy to'plamida asrlar davomida saqlanib kelgan noyob eksponatlar namoyish etilmoqda. An'anaviy keramika, milliy kiyimlar va qadimiy qurol-yarog'lar orqali Xorazm xalqining tarixini va madaniyatini kashf eting."
+    },
+    "gallery": {
+        "title": "Galereya"
+    },
+    "footer": {
+        "location": "Manzil",
+        "locationT": "Xorazm viloyati, Xiva shahri, Boltayev ko'chasi 41-uy",
+        "links": "Foydali havolalar",
+        "media": "Ijtimoiy tarmoqlarimiz"
+    },
+
+    "buttons": {
+        "tickets": "Chipta olish",
+        "details": "Batafsil",
+        "openMap": "Xaritada ochish"
+    }
+}
