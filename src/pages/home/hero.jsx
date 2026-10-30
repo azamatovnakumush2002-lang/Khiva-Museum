@@ -1,16 +1,13 @@
 import { Swiper, SwiperSlide } from "swiper/react";
-import { EffectFade, Navigation, Pagination } from "swiper/modules";
+import { Navigation, Pagination } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 import Icons from "../../components/icons/Icons";
 import { useTranslation } from "react-i18next";
-// import { useRef } from "react";
 
 const Hero = () => {
     const { t } = useTranslation();
-    // const prevRef = useRef(null);
-    // const nextRef = useRef(null);
     const slides = [
         {
             image: "/home/xiva-3.jpg",
@@ -75,7 +72,6 @@ const Hero = () => {
             </Swiper>
             <div className='mx-auto mt-5 flex w-full max-w-60 sm:max-w-80 items-center justify-center gap-5 sm:gap-8'>
                 <button
-                    // ref={prevRef}
                     type='button'
                     className='museum-prev flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-primary dark:border-[#C5A66B] bg-inherit dark:bg-primary text-primary dark:text-white shadow-md transition duration-300  hover:bg-hLight dark:hover:bg-[#D6B16D] hover:shadow-lg '
                     aria-label='Previous slide'
@@ -85,7 +81,6 @@ const Hero = () => {
 
                 <div className='museum-pagination  flex items-center justify-center gap-2'></div>
                 <button
-                    // ref={nextRef}
                     type='button'
                     className='museum-next flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-primary dark:border-[#C5A66B] bg-inherit dark:bg-primary text-primary dark:text-white shadow-md transition duration-300  hover:bg-hLight dark:hover:bg-[#D6B16D] hover:shadow-lg'
                     aria-label='Next slide'

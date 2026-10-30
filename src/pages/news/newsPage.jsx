@@ -13,8 +13,6 @@ function News() {
 
                 console.log("Kelgan data:", data);
 
-                // Bu qatorni haqiqiy response
-                // tuzilishiga qarab moslaymiz.
                 setNews(data);
             } catch (err) {
                 console.error(err);
